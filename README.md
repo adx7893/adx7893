@@ -3,8 +3,7 @@
 <p align="center">
  
  
-📫 How to reach me **apurvakansara5@gmail.com** <a href='https://me-qr.com' border='0' style='cursor:pointer;display:block'><img src='https://cdn2.me-qr.com/qr/63260488.png?v=1686080222' alt='Create qr code for free'></a><a href='https://me-qr.com' border='0' style='cursor:default;display:none'>Create qr code for free</a>
- 
+📫 How to reach me **apurvakansara5@gmail.com**
 
 </p>
 
