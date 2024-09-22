@@ -36,8 +36,3 @@
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
    </a>
 </div>
-
-<h3 align="left">Contribution Graph:</h3>
-<div align="center">
-   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=adx7893&bg_color=0,420000,120042&color=ffffff&line=00ff00&point=ffffff&area=true&hide_border=true" alt="activity graph">
-</div>
