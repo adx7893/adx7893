@@ -1,4 +1,17 @@
-<h2>Hey!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px"></h2>
+<h2>Hey, I'm Adx!<img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="24px"></h2>
+
+<p align="center">AI/ML Developer in Toronto. I build AI agents, n8n automations, and LLM pipelines that run real business workflows.</p>
+
+<p align="center">
+  <img src="assets/agent-trace.svg" width="800" alt="Animated trace of an AI agent processing an RFP">
+</p>
+
+<h3 align="left">What I build</h3>
+
+* Lead intake automations that dedupe, score, and route leads into a CRM
+* AI agents with a human in the loop for review and approval
+* RFP intelligence that turns long documents into structured requirements and evidence matches
+* WhatsApp assistants for enrollment and lead qualification
 
 <p align="center">
    📫 How to reach me: <strong>apurvakansara5@gmail.com</strong>
