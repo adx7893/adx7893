@@ -13,6 +13,18 @@
 * RFP intelligence that turns long documents into structured requirements and evidence matches
 * WhatsApp assistants for enrollment and lead qualification
 
+<!-- ACTIVITY:START -->
+### Recently updated projects
+
+* [personal_portfolio](https://github.com/adx7893/personal_portfolio)
+* [Hirerig](https://github.com/adx7893/Hirerig)
+* [SAP_SOL_AI_Agent](https://github.com/adx7893/SAP_SOL_AI_Agent)
+* [react_to_angular](https://github.com/adx7893/react_to_angular)
+* [portfolio_web_app](https://github.com/adx7893/portfolio_web_app)
+
+<sub>Auto updated on Nov 14, 2026</sub>
+<!-- ACTIVITY:END -->
+
 <p align="center">
    📫 How to reach me: <strong>apurvakansara5@gmail.com</strong>
 </p>
