@@ -16,13 +16,13 @@
 <!-- ACTIVITY:START -->
 ### Recently updated projects
 
-* [personal_portfolio](https://github.com/adx7893/personal_portfolio)
-* [Hirerig](https://github.com/adx7893/Hirerig)
-* [SAP_SOL_AI_Agent](https://github.com/adx7893/SAP_SOL_AI_Agent)
-* [react_to_angular](https://github.com/adx7893/react_to_angular)
-* [portfolio_web_app](https://github.com/adx7893/portfolio_web_app)
+* [personal_portfolio](https://github.com/adx7893/personal_portfolio): JavaScript
+* [Hirerig](https://github.com/adx7893/Hirerig): TypeScript
+* [SAP_SOL_AI_Agent](https://github.com/adx7893/SAP_SOL_AI_Agent): Blade
+* [react_to_angular](https://github.com/adx7893/react_to_angular): TypeScript
+* [portfolio_web_app](https://github.com/adx7893/portfolio_web_app): TypeScript
 
-<sub>Auto updated on Nov 14, 2026</sub>
+<sub>Auto updated on Nov 16, 2026</sub>
 <!-- ACTIVITY:END -->
 
 <p align="center">
